@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="FT" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Add-On-CHY_Production" ExtVersion="23.04.17.12.43" Contdata="" Partner="Fast Track SBOi Sdn Bhd" DBType="MSSQL" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="10.0" To="10.0" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Add-On-CHY_Production" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="Runtime.exe" AddonSig="E8EF538099650D34D5D0FFFB4924D3FA" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Sensors.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Shell.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.ShellExtensions.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Windows.Forms.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\WindowsFormsIntegration.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\WindowsFormsIntegration.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Addon\Form_FTS_WO.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Lib\TSCLIB_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Lib\TSCLIB_x86.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\arrow.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\arrowToLeft.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\CFL.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\Form_ActionResult.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\FT_PurchaseOrder.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\Loading.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Sensors.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.Shell.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.ShellExtensions.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Microsoft.WindowsAPICodePack.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Runtime.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\System.Windows.Forms.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\WindowsFormsIntegration.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\WindowsFormsIntegration.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Addon\Form_FTS_WO.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Lib\TSCLIB_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Lib\TSCLIB_x86.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\arrow.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\arrowToLeft.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\CFL.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\Form_ActionResult.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\FT_PurchaseOrder.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Resources\Loading.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="Runtime.exe" AddonSig="E8EF538099650D34D5D0FFFB4924D3FA" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Sensors.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Shell.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.ShellExtensions.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Windows.Forms.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\WindowsFormsIntegration.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\WindowsFormsIntegration.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Addon\Form_FTS_WO.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Lib\TSCLIB_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Lib\TSCLIB_x86.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\arrow.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\arrowToLeft.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\CFL.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\Form_ActionResult.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\FT_PurchaseOrder.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\Loading.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Sensors.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.Shell.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.ShellExtensions.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Microsoft.WindowsAPICodePack.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Runtime.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Net.Http.Formatting.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Net.Http.Formatting.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Windows.Forms.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\System.Windows.Forms.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\WindowsFormsIntegration.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\WindowsFormsIntegration.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Addon\Form_FTS_WO.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Lib\TSCLIB_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Lib\TSCLIB_x86.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\arrow.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\arrowToLeft.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\CFL.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\Form_ActionResult.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\FT_PurchaseOrder.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Resources\Loading.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
